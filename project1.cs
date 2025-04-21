@@ -18,7 +18,7 @@ public class GalacticTravelAgency {
     Console.WriteLine(passengerAge);
     Console.WriteLine(ticketType);
     Console.WriteLine(preferredPlanet);
-    // Increment passengerAge by 1
+    // Increment passengerAge by 1 to correct age
     passengerAge++;
     Console.WriteLine(passengerAge);
     // Explicit conversion
